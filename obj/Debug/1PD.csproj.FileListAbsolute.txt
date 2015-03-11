@@ -1,0 +1,8 @@
+E:\Dropbox\Program\CSharp\1PD\1PD\bin\Debug\1PD.exe.config
+E:\Dropbox\Program\CSharp\1PD\1PD\bin\Debug\1PD.exe
+E:\Dropbox\Program\CSharp\1PD\1PD\bin\Debug\1PD.pdb
+E:\Dropbox\Program\CSharp\1PD\1PD\obj\Debug\_1PD.Form1.resources
+E:\Dropbox\Program\CSharp\1PD\1PD\obj\Debug\_1PD.Properties.Resources.resources
+E:\Dropbox\Program\CSharp\1PD\1PD\obj\Debug\1PD.csproj.GenerateResource.Cache
+E:\Dropbox\Program\CSharp\1PD\1PD\obj\Debug\1PD.exe
+E:\Dropbox\Program\CSharp\1PD\1PD\obj\Debug\1PD.pdb
